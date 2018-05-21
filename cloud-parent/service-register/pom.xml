@@ -13,7 +13,7 @@
 
     <parent>
         <groupId>com.business.system</groupId>
-        <artifactId>cloud-parent</artifactId>
+        <artifactId>service-parent</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
